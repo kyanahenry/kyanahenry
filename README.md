@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Troubleshooting a Network Issue on Windows
+  - 5 Basic Networking Commands for Troubleshooting
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kyanahenry/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kyanahenry/post-installation-configuration)
