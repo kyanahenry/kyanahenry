@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Troubleshooting a Network Issue on Windows
-  - 5 Basic Networking Commands for Troubleshooting
+- <b>Azure: Create a Virtual Machine and Deploy a Web Server
+  - Create a Virtual Network and a subnet
+  - 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kyanahenry/osticket-prereqs)
