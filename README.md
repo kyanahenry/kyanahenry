@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure: VM</b>
-  - Azure: Create a Virtual Machine and Deploy a Web Server
+  - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/kyanahenry/create-virtual-network)
     
 - <b>Microsoft Azure: Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
