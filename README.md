@@ -9,7 +9,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
  
 - <b>Microsoft Azure: Backup</b>
-  - [Implementing Microsoft Azure Backup](https://github.com/joshmadakorcc/configure-ad)
+  - [Implementing Microsoft Azure Backup](https://github.com/kyanahenry/azure-backup/blob/main/README.md)
        
 <h2>Connect with me:</h2>
 
