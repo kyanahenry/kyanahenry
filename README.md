@@ -4,9 +4,6 @@
 
 - <b>Microsoft Azure: VM</b>
   - [Create a Virtual Machine and Deploy a Web Server](https://github.com/kyanahenry/create-virtual-network)
-    
-- <b>Microsoft Azure: Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
  
 - <b>Microsoft Azure: Backup</b>
   - [Implementing Microsoft Azure Backup](https://github.com/kyanahenry/azure-backup/blob/main/README.md)
